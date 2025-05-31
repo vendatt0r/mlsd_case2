@@ -15,11 +15,11 @@
 
 ## Бизнесс процесс до и после внедрения
 ### До 
-![A-0 old.png](IDEF0%2FA-0%20old.png)
-![A0 old.png](IDEF0%2FA0%20old.png)
+![A-0 old.jpg](IDEF0%2FA-0%20old.jpg)
+![A0 old.jpg](IDEF0%2FA0%20old.jpg)
 ### После
-![A-0 new.png](IDEF0%2FA-0%20new.png)
-![A0 new.png](IDEF0%2FA0%20new.png)
+![A-0 new.jpg](IDEF0%2FA-0%20new.jpg)
+![A0 new.jpg](IDEF0%2FA0%20new.jpg)
 
 ## Диаграммы структуры данных информационной системы
 ### Краткое описание 
